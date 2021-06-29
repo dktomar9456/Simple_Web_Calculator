@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/bg.jpg");
+    background-image: linear-gradient(to right, rgb(15, 126, 170), rgb(16, 163, 16));
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.3);
     background-blend-mode: darken;
